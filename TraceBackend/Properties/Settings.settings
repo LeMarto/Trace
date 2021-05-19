@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TraceBackend.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Schema" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Tabular</Value>
+    </Setting>
+    <Setting Name="Sp_Name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">usp_Insert_Query</Value>
+    </Setting>
+    <Setting Name="Db_Name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Trace</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
