@@ -89,3 +89,6 @@ The TraceBackend makes use of the API from MS SQL Server 2012.
 * Microsoft.SqlServer.ConnectionInfoExtended
 
 Both of these get installed with MS SQL Management Studio 2012. Be sure to have it installed wherever the service will run.
+
+## Developed on
+Microsoft Visual Studio Professional 2015 Version 14.0.25425.01 Update 3.
